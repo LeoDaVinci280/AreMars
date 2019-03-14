@@ -1,0 +1,38 @@
+ARE MARS
+plan de dev:
+
+fonction de base de l'evolution d'une population:
+
+	-taux de natalité
+	-taux de mortalité
+	-ressources vitales (definition d'un niveau de ressource minimal)
+		-sous categorie de ressource (definition d'un niveau de  sous-ressource minimal)
+
+événements:
+	
+	-épidémie
+		-pb de tomber malade		
+		-taux de mortalité
+		-taux de guérision
+	-catastrophe naturel
+		-ponctuelle ou pas (cf durée de la perturbation)
+		-modification de l'environnement et donc des pb des fonctions de base
+	-rencontre d'une autre civilisation
+		-taux de mortalité
+		-taux de converties ennemies
+		-modification des ressources necessaire (pour la guerre tavu)
+
+évolution et révolution de la civilisation:
+	
+	-compteur "d'évolution" avec des paliers (donnant acces a une innovation)
+		-paliers enventuels
+			-arme a feu			
+			-armelioration sanitaire			
+			-électricité
+			-...
+		- => modification des conditions de vie et donc de pb des fonctions de base
+			
+			
+		
+		
+		
