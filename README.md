@@ -1,2 +1,0 @@
-# AreMars
-SuperMars Are
